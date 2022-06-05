@@ -289,7 +289,7 @@ Para hacer posible mantener altos nuestros estándares de seguridad, vamos a des
 
 - Se preguntará al usuario cuántas minúsculas debería contener la contraseña. El número introducido no puede ser menor a 1. Se volverá a pedir el dato mientras se incumpla la condición.
 
-- Si la suma de los datos anteriores es menor a 12, se le mostrará al usuario un mensaje diciendo que la longitud de la contraseña es insegura, explicando que el total de caracteres debe ser mayor a 12. Se volverán a pedir todos los datos al usuario mientras se incumpla la condición.
+- Si la suma de los datos anteriores es menor a 12, se le mostrará al usuario un mensaje diciendo que la longitud de la contraseña es insegura, explicando que el total de caracteres debe ser mayor o igual a 12. Se volverán a pedir todos los datos al usuario mientras se incumpla la condición.
 
 - El programa generará la contraseña.
 
@@ -321,11 +321,11 @@ La aplicación tendrá el siguiente comportamiento:
 
 > Ejemplo:
 > 
-> "Confía en el tiempo, que suele dar dulces salidas a muchas amargas dificultades".
+> "Confía en el tiempo que suele dar dulces salidas a muchas amargas dificultades".
 > 
 > Se traduce a:
 > 
-> "Onfíacay enway elway iempotay, ueqay uelesay arday ulcesday alidassay away uchasmay amargasway ificultadesday".
+> "Onfíacay enway elway iempotay ueqay uelesay arday ulcesday alidassay away uchasmay amargasway ificultadesday".
 
 ## 10. Idle Hero
 
