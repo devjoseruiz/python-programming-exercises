@@ -42,7 +42,7 @@ Vamos a desarrollar el clásico juego de "Piedra - Papel - Tijeras". La aplicaci
 
 - El proceso se repetirá hasta completar todas las rondas.
 
-- Finalmente, se mostrará por pantalla quién fue el ganador, o si hubo empate.
+- Finalmente, se mostrará por pantalla un mensaje anunciando que el juego termin
 
 ## 3. Generador de canciones de reggaeton
 
