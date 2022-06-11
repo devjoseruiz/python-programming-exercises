@@ -42,7 +42,7 @@ Vamos a desarrollar el clásico juego de "Piedra - Papel - Tijeras". La aplicaci
 
 - El proceso se repetirá hasta completar todas las rondas.
 
-- Finalmente, se mostrará por pantalla un mensaje anunciando que el juego termin
+- Finalmente, se mostrará por pantalla un mensaje anunciando que el juego terminó.
 
 ## 3. Generador de canciones de reggaeton
 
@@ -166,17 +166,17 @@ La aplicación tendrá el siguiente comportamiento:
 > Pista: usa listas para almacenar las palabras de cada columna. Accede a los índices de manera aleatoria para ir armando cada verso de la canción.
 
 > Ejemplo:
-> 
+>
 > Mami yo vine a jugal lento hasta que salga el sol sin paral.
-> 
+>
 > Prinsesa yo quiero amalte suave toda la noche sin compromiso.
-> 
+>
 > Yo puedo encendelte rápido.
-> 
+>
 > Yo vine a perrialte fuelte.
 
 > Recursos:
-> 
+>
 > - [Cómo componer reggaeton en tan solo 30 segundos](https://www.youtube.com/watch?v=6iOlB0QLy84).
 
 ## 4. Aventura basada en texto
@@ -186,11 +186,11 @@ Vamos a desarrollar un juego siguiendo un concepto similar al de Visual Novel, p
 En este ejercicio habrá libertad casi total. Será una aventura basada en texto. La historia puede ser todo lo larga o corta que queráis hacerla. Solo tened en cuenta que deberían darse ramificaciones en la narrativa, tomas de decisiones, así como disponer de al menos un par de finales alternativos.
 
 > Ejemplos:
-> 
+>
 > - [Off Day](https://viv-url.itch.io/off-day).
-> 
+>
 > - [Silver Thread](https://puchidesign.itch.io/silver-thread).
-> 
+>
 > - [Posey Picks Bus Stop](https://derekachoy.itch.io/posey-picks-bus-stop).
 
 ## 5. Pomodoro (temporizador)
@@ -214,13 +214,13 @@ Vamos a desarrollar una aplicación de temporizador Pomodoro. La aplicación ten
 - El proceso se repetirá tantas veces como intervalos haya pedido el usuario.
 
 > Pista: tendréis que usar la función "sleep" del módulo "time" para el temporizador.
-> 
+>
 > Para la notificación, dependiendo de cuál sea vuestro sistema operativo, debéis usar la función "system" del módulo "os" para generar la notificación en la bandeja del sistema.
 
 > Recursos:
-> 
+>
 > - [Notificaciones en Mac OS y Linux con Python](https://www.pythongasm.com/desktop-notifications-with-python/).
-> 
+>
 > - [Notificaciones en Windows con Python](https://stackoverflow.com/questions/29014944/send-a-message-box-to-a-list-of-remote-pc).
 
 ## 6. Tres en raya
@@ -272,7 +272,7 @@ La aplicación tendrá el siguiente comportamiento:
 > Pista: tendréis que usar la función "sleep" del módulo "time" y la función "system" del módulo "os" para hacer que la serie mostrada desaparezca a los 3 segundos.
 
 > Recursos:
-> 
+>
 > - [Cómo limpiar la consola en Python](https://www.tutorialspoint.com/how-to-clear-python-shell).
 
 ## 8. Generador de contraseñas
@@ -320,11 +320,11 @@ La aplicación tendrá el siguiente comportamiento:
 - Finalmente, se mostrará el resultado de la traducción por pantalla.
 
 > Ejemplo:
-> 
+>
 > "Confía en el tiempo que suele dar dulces salidas a muchas amargas dificultades".
-> 
+>
 > Se traduce a:
-> 
+>
 > "Onfíacay enway elway iempotay ueqay uelesay arday ulcesday alidassay away uchasmay amargasway ificultadesday".
 
 ## 10. Idle Hero
@@ -358,7 +358,7 @@ La aplicación tendrá el siguiente comportamiento:
 > Pista: este proyecto involucra la suma y culminación de todos los conocimientos que habéis adquirido hasta ahora.
 
 > Ejemplos:
-> 
+>
 > - [Idle Quest](https://play.google.com/store/apps/details?id=com.topcog.idlequest.android).
-> 
+>
 > - [The Idle RPG](https://www.youtube.com/watch?v=VzzfyukYCuo).
