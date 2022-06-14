@@ -90,7 +90,7 @@
 
 42. [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/python)
 
-43. [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/python)
+43. [Pair of gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db/train/python)
 
 44. [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/python)
 
