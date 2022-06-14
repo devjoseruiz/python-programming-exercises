@@ -98,7 +98,7 @@
 
 ## Nivel 5 kyu
 
-46. [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/train/python)
+46. [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python)
 
 47. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python)
 
